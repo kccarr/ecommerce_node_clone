@@ -9,7 +9,10 @@
   "author": "Kevin Carr",
   "license": "ISC",
   "devDependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.16.1",
     "express": "^4.14.1",
+    "mongoose": "^4.8.4",
     "morgan": "^1.8.0"
   }
 }
